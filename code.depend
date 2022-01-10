@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1641435607 source:m:\meusdocumentos\documentos\faculdade\disciplinas\estrutura de dados avançada\trabalho 1\parte 2\code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"functions.h"
+
+1640381055 m:\meusdocumentos\documentos\faculdade\disciplinas\estrutura de dados avançada\trabalho 1\parte 2\code\functions.h
+
+1639958267 source:m:\meusdocumentos\documentos\faculdade\disciplinas\estrutura de dados avançada\trabalho 1\parte 2\code\functions.h
+
+1640963713 source:m:\meusdocumentos\documentos\faculdade\disciplinas\estrutura de dados avançada\trabalho 1\parte 2\code\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
